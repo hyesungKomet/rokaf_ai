@@ -1,2 +1,2 @@
 # rokaf_ai
-Elite ROKAF developer studying AI
+군장병 AI 교육
